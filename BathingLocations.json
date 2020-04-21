@@ -1,0 +1,1758 @@
+{
+    "plasser" :[
+        {
+            "lat": "59.98948375",
+            "lng": "11.24525651",
+            "name": "Kuskerudnebben",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.88665163",
+            "lng": "5.60217306",
+            "name": "Solastranden",
+            "saltwater": "1"
+        },
+        {
+            "lat": "61.84231713",
+            "lng": "4.899316281",
+            "name": "Grotlesanden",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.46844303",
+            "lng": "6.199554652",
+            "name": "Volsdalsberga",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.57134749",
+            "lng": "10.61762497",
+            "name": "Villa Malla",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.88795156",
+            "lng": "10.59471354",
+            "name": "Fornebustranda",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.47834719",
+            "lng": "11.16936609",
+            "name": "Årneslandet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.92895494",
+            "lng": "11.21668026",
+            "name": "Heiavannet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.796265",
+            "lng": "10.49759075",
+            "name": "Sjøstrand",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.842408",
+            "lng": "10.4896836",
+            "name": "Hvalstrand",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.47577688",
+            "lng": "6.457626075",
+            "name": "Brusdalsvatnet",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.43053516",
+            "lng": "6.441704482",
+            "name": "Emblemsanden",
+            "saltwater": "1"
+        },
+        {
+            "lat": "65.86214228",
+            "lng": "12.46491596",
+            "name": "Vågen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "69.96576001",
+            "lng": "23.27067778",
+            "name": "Nordlysbadet",
+            "saltwater": "1"
+        },
+        {
+            "lat": "69.9303202",
+            "lng": "23.26353237",
+            "name": "Altaelva",
+            "saltwater": "0"
+        },
+        {
+            "lat": "61.10929842",
+            "lng": "11.98263332",
+            "name": "Osensjøen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.74596901",
+            "lng": "10.77618644",
+            "name": "Tusenfryd/Badefryd",
+            "saltwater": "3"
+        },
+        {
+            "lat": "58.37589644",
+            "lng": "8.692528456",
+            "name": "Storesand i Grimstad",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.46621217",
+            "lng": "8.884628266",
+            "name": "Lille Danmark",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.48889091",
+            "lng": "8.869511336",
+            "name": "Dybdalsbukta",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.73265517",
+            "lng": "10.72724149",
+            "name": "Breivoll",
+            "sand": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.7407225",
+            "lng": "10.51216051",
+            "name": "Ramton",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.85440387",
+            "lng": "10.54292545",
+            "name": "Middagsbukta",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.80982596",
+            "lng": "10.3588669",
+            "name": "DIF-stranden",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.58111004",
+            "lng": "4.966092557",
+            "name": "Herdla",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.42123808",
+            "lng": "5.151744336",
+            "name": "Basneset",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.45374962",
+            "lng": "5.232993811",
+            "name": "Solneset",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.45189254",
+            "lng": "5.109826773",
+            "name": "Kollevåg",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.82641501",
+            "lng": "6.817428321",
+            "name": "Røaleira",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.14608998",
+            "lng": "8.007216007",
+            "name": "Bystranda",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.18774363",
+            "lng": "8.144939393",
+            "name": "Badelandet",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.42589508",
+            "lng": "8.809408396",
+            "name": "Mærdø",
+            "food": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.88271121",
+            "lng": "10.53742692",
+            "name": "Kalvøya",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.88788966",
+            "lng": "10.53193912",
+            "name": "Kadettangen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.97090504",
+            "lng": "10.5937238",
+            "name": "Østernvann",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.96966743",
+            "lng": "10.63622609",
+            "name": "Bogstadvannet",
+            "sand": "1",
+            "toilet": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.88420777",
+            "lng": "10.62274262",
+            "name": "Halden",
+            "saltwater": "1"
+        },
+        {
+            "lat": "68.33960951",
+            "lng": "16.85712978",
+            "name": "Ballangen Camping",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "68.39416116",
+            "lng": "16.86047718",
+            "name": "Karvikleira",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.99598231",
+            "lng": "9.737817496",
+            "name": "Krogshavna",
+            "saltwater": "1"
+        },
+        {
+            "lat": "69.05425204",
+            "lng": "18.48621771",
+            "name": "Polarbadet",
+            "diving_tower": "1",
+            "saltwater": "3"
+        },
+        {
+            "lat": "60.45520452",
+            "lng": "5.283591002",
+            "name": "Grønnskjæret",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.3291834",
+            "lng": "5.264649242",
+            "name": "Knappenvannet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.31219457",
+            "lng": "5.328630656",
+            "name": "Skjoldabukta",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.36596089",
+            "lng": "5.264509767",
+            "name": "Nipedalen",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.44124669",
+            "lng": "5.3152062",
+            "name": "Vollane",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.32041119",
+            "lng": "5.290964395",
+            "name": "Kyrkjetangen",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.43495173",
+            "lng": "5.2795811",
+            "name": "Helleneset",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.26086435",
+            "lng": "5.292789638",
+            "name": "Fureviken",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.34222713",
+            "lng": "5.334636122",
+            "name": "Kongen",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.36585744",
+            "lng": "5.305295438",
+            "name": "Storavatnet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.31030491",
+            "lng": "5.465407223",
+            "name": "Melkeviken",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.42334051",
+            "lng": "5.29529348",
+            "name": "Biskophavn",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.18747018",
+            "lng": "5.485711545",
+            "name": "Solstrand",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.39519933",
+            "lng": "5.353703946",
+            "name": "Skomakerdiket",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.36246871",
+            "lng": "5.235536546",
+            "name": "Vannkanten",
+            "toilet": "1",
+            "food": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.38238216",
+            "lng": "8.112763613",
+            "name": "Elva",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.32711976",
+            "lng": "8.22770164",
+            "name": "Berse",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.76771032",
+            "lng": "9.784723967",
+            "name": "Mebostad",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.44728635",
+            "lng": "9.07262966",
+            "name": "Sommarland",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "3"
+        },
+        {
+            "lat": "67.27833186",
+            "lng": "14.41552565",
+            "name": "Nordlandsbadet",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.69169912",
+            "lng": "5.363874882",
+            "name": "Narravikjo",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.80951304",
+            "lng": "5.268356055",
+            "name": "Furuneset",
+            "saltwater": "1"
+        },
+        {
+            "lat": "61.87469268",
+            "lng": "5.259258002",
+            "name": "Rugsund øy",
+            "food": "1",
+            "diving_tower": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.73614837",
+            "lng": "10.19974753",
+            "name": "Drammensbadet",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.76880781",
+            "lng": "10.16176209",
+            "name": "Landfalltjern",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.89502083",
+            "lng": "10.67537829",
+            "name": "Huk",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.74012779",
+            "lng": "10.21705315",
+            "name": "Drammenselva",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.68640348",
+            "lng": "9.682209939",
+            "name": "Kjennerudvannet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.63060903",
+            "lng": "10.19197449",
+            "name": "Blekktjern",
+            "diving_tower": "1",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.72134032",
+            "lng": "10.12807354",
+            "name": "Stordammen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.73539677",
+            "lng": "10.13769194",
+            "name": "Inntaker'n",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.54890122",
+            "lng": "11.48146793",
+            "name": "Lundebyvannet",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.29702837",
+            "lng": "11.21728107",
+            "name": "Andelva",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.89513971",
+            "lng": "11.56667635",
+            "name": "Sagtjernet",
+            "food": "1",
+            "diving_tower": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.805808",
+            "lng": "11.63014814",
+            "name": "Løkenstranda",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.78855467",
+            "lng": "11.4767687",
+            "name": "Rokosjøen",
+            "handicap": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.9228072",
+            "lng": "11.82275221",
+            "name": "Lisjøen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.98670935",
+            "lng": "11.76758453",
+            "name": "Bergersjøen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.7129653",
+            "lng": "11.13816664",
+            "name": "Bermerud badeplass",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.11201981",
+            "lng": "6.895078272",
+            "name": "Hengenestjørna",
+            "saltwater": "0"
+        },
+        {
+            "lat": "67.32743016",
+            "lng": "15.23707554",
+            "name": "Valnesfjordvatnet",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.90218812",
+            "lng": "5.300832242",
+            "name": "Breiavikjo",
+            "saltwater": "1"
+        },
+        {
+            "lat": "64.44168527",
+            "lng": "10.78181908",
+            "name": "Floavatnet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.29083061",
+            "lng": "6.716480702",
+            "name": "Selura",
+            "sand": "1",
+            "toilet": "1",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "61.58545868",
+            "lng": "5.042685717",
+            "name": "Sørstrand",
+            "saltwater": "1"
+        },
+        {
+            "lat": "61.44978581",
+            "lng": "5.838395208",
+            "name": "Kulpen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "62.89276078",
+            "lng": "7.177488059",
+            "name": "Langvatnet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.25838692",
+            "lng": "10.73053523",
+            "name": "Solviken",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.17065815",
+            "lng": "10.82785651",
+            "name": "Foten badestrand",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.21734292",
+            "lng": "10.79068109",
+            "name": "Theastranda",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.51243763",
+            "lng": "8.629627973",
+            "name": "Frolandia",
+            "saltwater": "3"
+        },
+        {
+            "lat": "62.51133464",
+            "lng": "6.051818579",
+            "name": "Giskesanden",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.79795722",
+            "lng": "10.67506716",
+            "name": "Fastland friluftsbad",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.51994766",
+            "lng": "6.716126651",
+            "name": "Badestronde i Granvin",
+            "saltwater": "1"
+        },
+        {
+            "lat": "64.45452237",
+            "lng": "12.32247993",
+            "name": "Tømmeråshøla",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.10567206",
+            "lng": "11.22313902",
+            "name": "Svalerødkilen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.79277988",
+            "lng": "11.06312916",
+            "name": "Koigen",
+            "diving_tower": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "68.80054331",
+            "lng": "16.54050039",
+            "name": "Grottebadet i Harstad",
+            "saltwater": "1"
+        },
+        {
+            "lat": "65.37170825",
+            "lng": "13.61333057",
+            "name": "Fiplingvatnet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.42398921",
+            "lng": "10.46528623",
+            "name": "Ulsnestangen",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.35427344",
+            "lng": "8.652644008",
+            "name": "Moysand familiecamping",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "58.32709437",
+            "lng": "8.583233804",
+            "name": "Groos",
+            "sand": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "64.61078574",
+            "lng": "12.57795498",
+            "name": "Aunfossen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.72563691",
+            "lng": "5.520397835",
+            "name": "Orrestranden",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.1329077",
+            "lng": "11.52485535",
+            "name": "Kruseter",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.12034158",
+            "lng": "11.19293734",
+            "name": "Øketangen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.06741975",
+            "lng": "10.98566696",
+            "name": "Kuholmen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.16317409",
+            "lng": "11.17782041",
+            "name": "Gressdal",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.42780522",
+            "lng": "5.281262845",
+            "name": "Vangen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.34343968",
+            "lng": "5.847584456",
+            "name": "Nedstrand",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.42008823",
+            "lng": "5.302253813",
+            "name": "Djupadalen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.94815679",
+            "lng": "9.524184912",
+            "name": "Ringsjø",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.42009666",
+            "lng": "9.066471308",
+            "name": "Heimsvatnet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "62.34658906",
+            "lng": "5.517565459",
+            "name": "Mulevika",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.60284507",
+            "lng": "8.977336138",
+            "name": "Hitra svømmehall",
+            "saltwater": "3"
+        },
+        {
+            "lat": "60.25582464",
+            "lng": "5.273660123",
+            "name": "Grønevika badestrand",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.31325995",
+            "lng": "5.398453921",
+            "name": "Holmen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.45364381",
+            "lng": "5.492738932",
+            "name": "Lekneset",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.55212046",
+            "lng": "5.40919885",
+            "name": "Hjellvik",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.37729635",
+            "lng": "10.4675822",
+            "name": "Borrestranda",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.35315123",
+            "lng": "10.46803817",
+            "name": "Bollerudvara",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.42002528",
+            "lng": "11.08060643",
+            "name": "Åssanden",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.69198067",
+            "lng": "10.52112445",
+            "name": "Skogsborg",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.62226692",
+            "lng": "10.44115171",
+            "name": "Dramstad",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.52348808",
+            "lng": "10.47681972",
+            "name": "Ertsvika",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.54035253",
+            "lng": "10.55293545",
+            "name": "Apotekerstranda",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.52707657",
+            "lng": "10.50618455",
+            "name": "Sandbukta",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.96398234",
+            "lng": "9.858935065",
+            "name": "Oddane Sand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "58.19318852",
+            "lng": "8.076761981",
+            "name": "Hamresanden",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "59.02504144",
+            "lng": "11.01752849",
+            "name": "Storesand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.12052966",
+            "lng": "12.05215503",
+            "name": "Sigernessjøen",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1"
+        },
+        {
+            "lat": "59.49318491",
+            "lng": "10.31410581",
+            "name": "Dulpen",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.24817121",
+            "lng": "5.195846441",
+            "name": "Åkrasanden",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.02014976",
+            "lng": "7.447401998",
+            "name": "Sjøsanden",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "62.73407039",
+            "lng": "7.085243865",
+            "name": "Kringstadbukta",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "68.450077",
+            "lng": "17.70547478",
+            "name": "Langstranda",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.12349511",
+            "lng": "5.161212693",
+            "name": "Hoddeviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "59.277454",
+            "lng": "10.49434863",
+            "name": "Ringshaugstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.44064233",
+            "lng": "10.40092863",
+            "name": "Pirbadet",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "undefined": "BADEPARK"
+        },
+        {
+            "lat": "60.15576941",
+            "lng": "11.1700019",
+            "name": "Nordbytjernet",
+            "handicap": "1",
+            "parking": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "62.00507173",
+            "lng": "5.085882975",
+            "name": "Refviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "59.83259683",
+            "lng": "10.77212021",
+            "name": "Hvervenbukta",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.11011768",
+            "lng": "9.711846289",
+            "name": "Olavsberget",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "59.17389882",
+            "lng": "10.44706686",
+            "name": "Torødstranda",
+            "sand": "1",
+            "toilet": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.86184388",
+            "lng": "10.67224547",
+            "name": "Oksvalstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.72466973",
+            "lng": "10.0564371",
+            "name": "Hagatjern",
+            "sand": "1",
+            "food": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.34772831",
+            "lng": "10.6624715",
+            "name": "Botnerbaugen",
+            "sand": "1",
+            "toilet": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "undefined": "UTEDO"
+        },
+        {
+            "lat": "59.43998293",
+            "lng": "10.60731614",
+            "name": "Tronvikstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.29413667",
+            "lng": "11.08677934",
+            "name": "Tunevannet",
+            "saltwater": "0",
+            "undefined": "DÅRLIG VANNKVALITET"
+        },
+        {
+            "lat": "59.96740367",
+            "lng": "11.02633516",
+            "name": "Nebbursvollen",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "undefined": "BADEPARK"
+        },
+        {
+            "lat": "59.18444247",
+            "lng": "11.186838",
+            "name": "Høysand",
+            "sand": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "59.26262047",
+            "lng": "9.688443393",
+            "name": "Heivannet",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1"
+        },
+        {
+            "lat": "67.96939249",
+            "lng": "15.06215263",
+            "name": "Bøsanden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.00851394",
+            "lng": "11.08381433",
+            "name": "Stuevika",
+            "sand": "1",
+            "toilet": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "63.86885782",
+            "lng": "11.2922219",
+            "name": "Sundsand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.48371993",
+            "lng": "10.64152883",
+            "name": "Nes camping",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "60.60315707",
+            "lng": "10.31605883",
+            "name": "Randsfjorden Badepark",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.3037144",
+            "lng": "5.182285292",
+            "name": "Litla Fotvann",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "69.63217554",
+            "lng": "18.90569508",
+            "name": "Telegrafbukta",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.45034376",
+            "lng": "10.43429861",
+            "name": "Korsvika",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.39059161",
+            "lng": "10.47718453",
+            "name": "Estenstaddammen",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.4095046",
+            "lng": "10.54001253",
+            "name": "Nyammen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.43979393",
+            "lng": "10.4882032",
+            "name": "Rotvollfjæra",
+            "toilet": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.4214699",
+            "lng": "10.34481888",
+            "name": "Theisendammen",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.1533669",
+            "lng": "7.985161559",
+            "name": "Baneheia Badeplass",
+            "sand": "1",
+            "handicap": "1",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "69.77832509",
+            "lng": "18.53914976",
+            "name": "Grøtfjord",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.97089614",
+            "lng": "10.72968739",
+            "name": "Sognsvann",
+            "sand": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.99104135",
+            "lng": "5.812200735",
+            "name": "Lindøy",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "58.80076929",
+            "lng": "5.548679035",
+            "name": "Boresanden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.84229695",
+            "lng": "5.557580018",
+            "name": "Hellestøstranden",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.16772081",
+            "lng": "11.96157932",
+            "name": "Bæreia ",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.00425377",
+            "lng": "5.978450737",
+            "name": "Røynholm",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.67271415",
+            "lng": "9.473873396",
+            "name": "Jonstjern",
+            "saltwater": "0"
+        },
+        {
+            "lat": "69.98186286",
+            "lng": "23.46069239",
+            "name": "Lathari",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.26673188",
+            "lng": "11.80438582",
+            "name": "Stora Lee",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "camping": "1"
+        },
+        {
+            "lat": "67.16607124",
+            "lng": "14.22396477",
+            "name": "Sandviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "70.73157629",
+            "lng": "23.80181953",
+            "name": "Ytre Forsøl",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.35965235",
+            "lng": "6.075636635",
+            "name": "Overåsanden",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.09388029",
+            "lng": "10.17895503",
+            "name": "Onsakervika",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "58.86457417",
+            "lng": "9.411499935",
+            "name": "Gunnarsholmen",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "63.10742198",
+            "lng": "7.764628935",
+            "name": "Barnebasen",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.93303773",
+            "lng": "5.859418335",
+            "name": "Stølavika",
+            "saltwater": "1"
+        },
+        {
+            "lat": "70.06962786",
+            "lng": "24.99490903",
+            "name": "Flyplasstranda",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.30566647",
+            "lng": "10.68943303",
+            "name": "Teibern badeplass",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.04901423",
+            "lng": "10.01806003",
+            "name": "Batteristranda",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.02156004",
+            "lng": "10.07006813",
+            "name": "Gonstranda",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "63.70980483",
+            "lng": "11.33426833",
+            "name": "Langåsdammen",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.89765764",
+            "lng": "10.29744433",
+            "name": "Svangstrand",
+            "sand": "1",
+            "saltwater": "3"
+        },
+        {
+            "lat": "60.25197465",
+            "lng": "10.60448213",
+            "name": "Svea",
+            "diving_tower": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "61.30172411",
+            "lng": "7.247697535",
+            "name": "Solvorn",
+            "sand": "1",
+            "pier": "1",
+            "saltwater": "3"
+        },
+        {
+            "lat": "58.13665414",
+            "lng": "7.033185235",
+            "name": "Kvaviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "63.4043176",
+            "lng": "10.65843743",
+            "name": "Hestsjøen",
+            "toilet": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.4323067",
+            "lng": "10.71946303",
+            "name": "Storsand",
+            "sand": "1",
+            "saltwater": "1",
+            "camping": "1"
+        },
+        {
+            "lat": "63.13266777",
+            "lng": "9.933296935",
+            "name": "Svorksjøen",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "camping": "1"
+        },
+        {
+            "lat": "66.89223335",
+            "lng": "13.65195433",
+            "name": "Stia",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.68620948",
+            "lng": "6.608334035",
+            "name": "Sandane",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.43139024",
+            "lng": "10.65148513",
+            "name": "Sjøbadet (Moss)",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.09911669",
+            "lng": "11.51522083",
+            "name": "Veslesjøen",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.84083405",
+            "lng": "10.69422883",
+            "name": "Hellvikstrand",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "70.14404314",
+            "lng": "28.85952163",
+            "name": "Nessebybukta",
+            "saltwater": "1"
+        },
+        {
+            "lat": "68.45876346",
+            "lng": "16.71302003",
+            "name": "Evenesvika",
+            "sand": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.69605887",
+            "lng": "9.391834035",
+            "name": "Rauøra",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "62.47208783",
+            "lng": "6.807128635",
+            "name": "Skråvika",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.18039387",
+            "lng": "5.464044635",
+            "name": "Mobergsvika",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.91104283",
+            "lng": "10.66633923",
+            "name": "Bygdøy sjøbad",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.96676382",
+            "lng": "10.77823563",
+            "name": "Frysja",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.89357324",
+            "lng": "10.72747753",
+            "name": "Hovedøya",
+            "sand": "1",
+            "toilet": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.91765823",
+            "lng": "10.88198353",
+            "name": "Lutvannet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.87543744",
+            "lng": "10.86239803",
+            "name": "Nøklevannet",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.90209123",
+            "lng": "10.66544873",
+            "name": "Paradisbukta",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.97742122",
+            "lng": "10.88273453",
+            "name": "Steinbruvannet",
+            "handicap": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.82220575",
+            "lng": "10.86911963",
+            "name": "Stensrudtjern",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "60.72296644",
+            "lng": "10.85049433",
+            "name": "Hekshusstranda",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1"
+        },
+        {
+            "lat": "59.77316686",
+            "lng": "9.916559935",
+            "name": "Hokksund campingplass",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.78630526",
+            "lng": "9.899361535",
+            "name": "Hellefossen",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.08673862",
+            "lng": "9.716542235",
+            "name": "Røra badeplass",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.28850948",
+            "lng": "10.74211163",
+            "name": "Saltholmen",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.30612107",
+            "lng": "10.73510573",
+            "name": "Storesand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "60.63184046",
+            "lng": "5.063767835",
+            "name": "Nesvatnet",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.86481184",
+            "lng": "11.07996273",
+            "name": "Myrdammen",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "59.32376197",
+            "lng": "11.57759833",
+            "name": "Kolbjørnsviksjøen",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "66.3128731",
+            "lng": "14.17890113",
+            "name": "Klokkerhagen",
+            "saltwater": "3"
+        },
+        {
+            "lat": "59.02094154",
+            "lng": "5.592109435",
+            "name": "Sandestranden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "62.53164881",
+            "lng": "7.735162235",
+            "name": "Soggebru camping",
+            "sand": "1",
+            "saltwater": "3",
+            "camping": "1"
+        },
+        {
+            "lat": "59.35494226",
+            "lng": "10.20249413",
+            "name": "Langevann",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "62.84163944",
+            "lng": "10.01807613",
+            "name": "Buvatnet",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "parking": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "63.63689155",
+            "lng": "10.23074313",
+            "name": "Storvatnet",
+            "sand": "1",
+            "saltwater": "0"
+        },
+        {
+            "lat": "58.94210756",
+            "lng": "5.670751735",
+            "name": "Møllebukta",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "58.92444066",
+            "lng": "5.745285035",
+            "name": "Vaulen badestrand",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.81826303",
+            "lng": "10.74945554",
+            "name": "Ingierstrand",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1"
+        },
+        {
+            "lat": "59.1215337",
+            "lng": "10.35880253",
+            "name": "Hudøy",
+            "saltwater": "1"
+        }
+    ]
+}

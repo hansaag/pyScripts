@@ -1,0 +1,1930 @@
+{
+    "plasser": [
+        {
+            "lat": "59.98948375",
+            "lng": "11.24525651",
+            "name": "Kuskerudnebben",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.0iPg7K-7suR7yqxaZKiO1QHaEK?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.88665163",
+            "lng": "5.60217306",
+            "name": "Solastranden",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.40YI8JB8VbLneqzkLNakWQHaFj?w=267&h=200&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.84231713",
+            "lng": "4.899316281",
+            "name": "Grotlesanden",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.MTl4Fz7A4BQ7mqTZE8JO6gHaHa?w=145&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.46844303",
+            "lng": "6.199554652",
+            "name": "Volsdalsberga",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.JLLXL4mMatnKeHZAerf8PQHaEK?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.57134749",
+            "lng": "10.61762497",
+            "name": "Villa Malla",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.54m2BmfPUEQJPqj9fcaEzAHaE8?w=205&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.88795156",
+            "lng": "10.59471354",
+            "name": "Fornebustranda",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.6xSIp2sm_Bq926invyDhjQHaE8?w=228&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.47834719",
+            "lng": "11.16936609",
+            "name": "\u00c5rneslandet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.2aIx6yD-fB3O4adfJ1VbIQHaFj?w=241&h=181&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.92895494",
+            "lng": "11.21668026",
+            "name": "Heiavannet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.b09MqFUa3CgKjTU5SvMvJwHaFj?w=243&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.796265",
+            "lng": "10.49759075",
+            "name": "Sj\u00f8strand",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.ud5O3gjGZmS0IM3j4mMNrgHaFj?w=216&h=162&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.842408",
+            "lng": "10.4896836",
+            "name": "Hvalstrand",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.zFD_7-qVwCawBbFmDK1qaAHaFj?w=188&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.47577688",
+            "lng": "6.457626075",
+            "name": "Brusdalsvatnet",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.OgYXHHle8KRXErfTwAFy1AHaFj?w=212&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.43053516",
+            "lng": "6.441704482",
+            "name": "Emblemsanden",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.2_tiiBwJuBvMcQL0lkDpZQHaE8?w=222&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "65.86214228",
+            "lng": "12.46491596",
+            "name": "V\u00e5gen",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.bbQGLOYpUFTcjXUQyw92iQHaFj?w=231&h=173&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "69.96576001",
+            "lng": "23.27067778",
+            "name": "Nordlysbadet",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.OuWv7kk8WE4Xpqfef6YI1QHaE7?w=234&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "69.9303202",
+            "lng": "23.26353237",
+            "name": "Altaelva",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.F2GV9qKA5J5mxproetE8lwHaFj?w=228&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.10929842",
+            "lng": "11.98263332",
+            "name": "Osensj\u00f8en",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.jYk37eEvbEIc9g0uw5tLtQAAAA?w=173&h=129&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.74596901",
+            "lng": "10.77618644",
+            "name": "Tusenfryd/Badefryd",
+            "saltwater": "3",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.AHetkykx1Jg6lorKUytYTAHaD9?w=280&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.37589644",
+            "lng": "8.692528456",
+            "name": "Storesand i Grimstad",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.g6Ess8kcSvwvCEHkGLL3swHaEK?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.46621217",
+            "lng": "8.884628266",
+            "name": "Lille Danmark",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.KREkQTPLNWnoxyo5K0f3SgHaE9?w=229&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.73265517",
+            "lng": "10.72724149",
+            "name": "Breivoll",
+            "sand": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.CBnhnHYWxQNU5E1bSnhb9AHaFj?w=243&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.7407225",
+            "lng": "10.51216051",
+            "name": "Ramton",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.C7rpCLjsP30uJOWcreY3eQHaE2?w=241&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.85440387",
+            "lng": "10.54292545",
+            "name": "Middagsbukta",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.p2rALJZoRJ_IBjvxP7UhugHaFj?w=248&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.80982596",
+            "lng": "10.3588669",
+            "name": "DIF-stranden",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.I48_xcQ2_jTvAOe-CQMkMwHaE7?w=231&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.58111004",
+            "lng": "4.966092557",
+            "name": "Herdla",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.25B6wkf7s8YUBQIspM_iBwHaE-?w=199&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.42123808",
+            "lng": "5.151744336",
+            "name": "Basneset",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.JOINdMMJ5mVLSPbjGPuoqQAAAA?w=193&h=212&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.45374962",
+            "lng": "5.232993811",
+            "name": "Solneset",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.UuFsUG5dVFrNIbSNHHw6NgHaEK?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.45189254",
+            "lng": "5.109826773",
+            "name": "Kollev\u00e5g",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.ic2g9tUb6y1FSmRdhDoYZgHaFj?w=191&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.82641501",
+            "lng": "6.817428321",
+            "name": "R\u00f8aleira",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.SBAKaxeZciKv0y06XUQ11gHaFj?w=221&h=166&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.14608998",
+            "lng": "8.007216007",
+            "name": "Bystranda",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.AMwQT6DKiKlpxZKSVCyZiQAAAA?w=152&h=125&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.18774363",
+            "lng": "8.144939393",
+            "name": "Badelandet",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP._djqEgiFWSmAiCur8zDKXwHaE9?w=266&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.42589508",
+            "lng": "8.809408396",
+            "name": "M\u00e6rd\u00f8",
+            "food": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.JtdxKZ4CcQwhU2c_dP9iagHaFj?w=219&h=163&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.88271121",
+            "lng": "10.53742692",
+            "name": "Kalv\u00f8ya",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.sBHEPTICxBhL_6Xo4iQC1wHaFi?w=211&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.88788966",
+            "lng": "10.53193912",
+            "name": "Kadettangen",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.qF57R780oqlifidTZG14cQHaDt?w=241&h=150&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.97090504",
+            "lng": "10.5937238",
+            "name": "\u00d8sternvann",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.azW3vo-OZqtYgtMfHPs80QAAAA?w=184&h=122&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.96966743",
+            "lng": "10.63622609",
+            "name": "Bogstadvannet",
+            "sand": "1",
+            "toilet": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.J8LmtXN63Ba8_avpwMqfOAHaE8?w=195&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.88420777",
+            "lng": "10.62274262",
+            "name": "Halden",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.dlywCCJYtqD5HvKakAXOTwHaFj?w=259&h=190&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "68.33960951",
+            "lng": "16.85712978",
+            "name": "Ballangen Camping",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.vG_0aSPRin1AA2xDDnahaQHaEK?w=260&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.99598231",
+            "lng": "9.737817496",
+            "name": "Krogshavna",
+            "saltwater": "1",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "69.05425204",
+            "lng": "18.48621771",
+            "name": "Polarbadet",
+            "diving_tower": "1",
+            "saltwater": "3",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.RFe_HNr4Zkm6-NnDU_hkfgHaEK?w=241&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.45520452",
+            "lng": "5.283591002",
+            "name": "Gr\u00f8nnskj\u00e6ret",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.1sPKDIj9yi5FQfmcemv-ogHaEz?w=241&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.3291834",
+            "lng": "5.264649242",
+            "name": "Knappenvannet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.dn0yo9ePdvDcdCsIIV_m6QEyDM?w=278&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.31219457",
+            "lng": "5.328630656",
+            "name": "Skjoldabukta",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.HXOeCRpo2YN8lLRKmJJg2gHaE7?w=242&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.36596089",
+            "lng": "5.264509767",
+            "name": "Nipedalen",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.CHdKSr73CLzBBLrg3xJFnwHaEC?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.44124669",
+            "lng": "5.3152062",
+            "name": "Vollane",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.85IsRrOcA66TClaIl_yTOAHaFe?w=229&h=170&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.32041119",
+            "lng": "5.290964395",
+            "name": "Kyrkjetangen",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.pRMNg9oEbRHC9pop1hljpgHaE2?w=237&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.43495173",
+            "lng": "5.2795811",
+            "name": "Helleneset",
+            "sand": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.irzFerLbEAfhisobChaPqAHaE5?w=243&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.26086435",
+            "lng": "5.292789638",
+            "name": "Fureviken",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "60.34222713",
+            "lng": "5.334636122",
+            "name": "Kongen",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.PH8P0OmRE2eI4J02KO7GiwHaJC?w=163&h=189&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.36585744",
+            "lng": "5.305295438",
+            "name": "Storavatnet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.LJQoBLSEGPIOU8UNUL4fBgHaFk?w=228&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.31030491",
+            "lng": "5.465407223",
+            "name": "Melkeviken",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.CadNe9mB5c4c5uyXQOsLQgHaDt?w=273&h=150&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.42334051",
+            "lng": "5.29529348",
+            "name": "Biskophavn",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.n-pN9eosp6afl-NhZpvxgAAAAA?w=176&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.18747018",
+            "lng": "5.485711545",
+            "name": "Solstrand",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.qe1vwhr0Vhudn6QaeROzbAHaES?w=286&h=165&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.39519933",
+            "lng": "5.353703946",
+            "name": "Skomakerdiket",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.Gt6JqO_z3NqM3NfDZCoTLQHaFj?w=242&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.36246871",
+            "lng": "5.235536546",
+            "name": "Vannkanten",
+            "toilet": "1",
+            "food": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.RGm4zSsgCaqquBEuMRu3twHaE8?w=258&h=172&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.38238216",
+            "lng": "8.112763613",
+            "name": "Elva",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.u_OI8qvufvGT5jD_hDvSrwAAAA?w=219&h=219&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.32711976",
+            "lng": "8.22770164",
+            "name": "Berse",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.OEUW60WGGMu0IA_N3YancQAAAA?w=141&h=205&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.76771032",
+            "lng": "9.784723967",
+            "name": "Mebostad",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.P6UiZ8x55Ndn_5wV0noTMgHaFZ?w=219&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.44728635",
+            "lng": "9.07262966",
+            "name": "Sommarland",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.-ZLIt1mYjUydB-E36SRgCgHaEK?w=281&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "67.27833186",
+            "lng": "14.41552565",
+            "name": "Nordlandsbadet",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.RDHqPPbDdg97TDALRqBvSQHaE8?w=242&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.69169912",
+            "lng": "5.363874882",
+            "name": "Narravikjo",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.QvvpmqcewLUUgkAbVm0GLAHaE7?w=264&h=173&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.80951304",
+            "lng": "5.268356055",
+            "name": "Furuneset",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.pY-JQc461AGrmwKiQGxhHwHaEK?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.87469268",
+            "lng": "5.259258002",
+            "name": "Rugsund \u00f8y",
+            "food": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.bMXL91sZ5Fo6fYeokcmdFwHaE7?w=255&h=168&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.73614837",
+            "lng": "10.19974753",
+            "name": "Drammensbadet",
+            "saltwater": "3",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.UT_l_HaPQEDCORRevpgQZQHaE8?w=221&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.76880781",
+            "lng": "10.16176209",
+            "name": "Landfalltjern",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.YUX5mFXERz8cOUNJ1Jk9GQHaFi?w=222&h=166&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.89502083",
+            "lng": "10.67537829",
+            "name": "Huk",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.Ne2J3Qet0NGEf6nnOuoDhgHaHa?w=145&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.74012779",
+            "lng": "10.21705315",
+            "name": "Drammenselva",
+            "saltwater": "3",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.5s4usSpfnCldxdbhfXRO-QAAAA?w=172&h=154&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.68640348",
+            "lng": "9.682209939",
+            "name": "Kjennerudvannet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.nrLGgg-e-7Vt2N4O6B5xqAAAAA?w=217&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.63060903",
+            "lng": "10.19197449",
+            "name": "Blekktjern",
+            "diving_tower": "1",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.she49adM5mmDg8cxWSV_xAHaE8?w=267&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.72134032",
+            "lng": "10.12807354",
+            "name": "Stordammen",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.5ujSULjOSst9D9qccBosvAHaFj?w=234&h=174&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.73539677",
+            "lng": "10.13769194",
+            "name": "Inntaker'n",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.JcXLRMLBeDr00UiTKIocSgHaE8?w=273&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.54890122",
+            "lng": "11.48146793",
+            "name": "Lundebyvannet",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.cSlNNa_DZrRrLk27LBqongAAAA?w=209&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.29702837",
+            "lng": "11.21728107",
+            "name": "Andelva",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.HkwstENinB0-1yb9pAmDGQAAAA?w=205&h=154&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.89513971",
+            "lng": "11.56667635",
+            "name": "Sagtjernet",
+            "food": "1",
+            "diving_tower": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.9niX4IcBeljKbw3LLbDeHwHaE6?w=250&h=166&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.805808",
+            "lng": "11.63014814",
+            "name": "L\u00f8kenstranda",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.yf2BzRcQEmsa02IH0Hg-zgHaEh?w=261&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.78855467",
+            "lng": "11.4767687",
+            "name": "Rokosj\u00f8en",
+            "handicap": "1",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.lM0V9qRVtlgA4yrmDYlNOwEsDG?w=271&h=177&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.9228072",
+            "lng": "11.82275221",
+            "name": "Lisj\u00f8en",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.AqUSzjtJM2W2R3l7_icX5QHaFj?w=233&h=175&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.98670935",
+            "lng": "11.76758453",
+            "name": "Bergersj\u00f8en",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.w0RlqkoVY1f8JrAdgjzO5QHaJ4?w=162&h=198&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.7129653",
+            "lng": "11.13816664",
+            "name": "Bermerud badeplass",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.1NU8pwG9a6e4qODsU5KM4QAAAA?w=242&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "67.32743016",
+            "lng": "15.23707554",
+            "name": "Valnesfjordvatnet",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.jjsikbrkFgcGrPG-nUJ5KwAAAA?w=160&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.90218812",
+            "lng": "5.300832242",
+            "name": "Breiavikjo",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.bdG-S4p6R_JPGFTWGEv80wHaE8?w=242&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "64.44168527",
+            "lng": "10.78181908",
+            "name": "Floavatnet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.PFu0_gMJQfa7Yn1Wvfh2DAHaE8?w=230&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.29083061",
+            "lng": "6.716480702",
+            "name": "Selura",
+            "sand": "1",
+            "toilet": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.oUuBfwvIPf7_EihwH1mztQAAAA?w=172&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.58545868",
+            "lng": "5.042685717",
+            "name": "S\u00f8rstrand",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.bFHeh6e2HDKFkkzKiJfk0gHaEP?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.44978581",
+            "lng": "5.838395208",
+            "name": "Kulpen",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.J8FUAMr1UxirAxIlnyydEgHaEK?w=241&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.89276078",
+            "lng": "7.177488059",
+            "name": "Langvatnet",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.eZwAo3L34HxVPou3nUCr9AHaFj?w=228&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.25838692",
+            "lng": "10.73053523",
+            "name": "Solviken",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.ln_NNTzFXrPnrbhM8FhXpAHaFj?w=238&h=178&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.17065815",
+            "lng": "10.82785651",
+            "name": "Foten badestrand",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.p0xlqoR5TxHbdBJg3EByFQHaFj?w=277&h=208&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.21734292",
+            "lng": "10.79068109",
+            "name": "Theastranda",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.TOVqKGgQFM_CP5GiN22ZhAHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.51243763",
+            "lng": "8.629627973",
+            "name": "Frolandia",
+            "saltwater": "3",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.AWZ7qwZw2qL5w8B8kjGWVQHaC0?w=226&h=92&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.51133464",
+            "lng": "6.051818579",
+            "name": "Giskesanden",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.gaSzVl9O0LVWNucQAXyijQHaE8?w=263&h=175&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.79795722",
+            "lng": "10.67506716",
+            "name": "Fastland friluftsbad",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.2pHpqvjJlF51M1AlBKLHMAHaD4?w=242&h=157&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.51994766",
+            "lng": "6.716126651",
+            "name": "Badestronde i Granvin",
+            "saltwater": "1",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "64.45452237",
+            "lng": "12.32247993",
+            "name": "T\u00f8mmer\u00e5sh\u00f8la",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.bVf1WrlV7Fj2cOdJ5gdDFAHaE8?w=286&h=191&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.10567206",
+            "lng": "11.22313902",
+            "name": "Svaler\u00f8dkilen",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.WFV02Pb6jACsKwDPFtnWxQHaFj?w=235&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.79277988",
+            "lng": "11.06312916",
+            "name": "Koigen",
+            "diving_tower": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.PHqmRoYKqaClbdqEqm2OBwAAAA?w=183&h=122&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "68.80054331",
+            "lng": "16.54050039",
+            "name": "Grottebadet i Harstad",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.-sgXJPR-aU-hycR3McvlUgHaFj?w=228&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "65.37170825",
+            "lng": "13.61333057",
+            "name": "Fiplingvatnet",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.3eMwDoNAAoMFp-DNu0b2gwAAAA?w=121&h=184&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.42398921",
+            "lng": "10.46528623",
+            "name": "Ulsnestangen",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.xFKrgb27aNU5E7GdnrspcwHaFO?w=232&h=163&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.35427344",
+            "lng": "8.652644008",
+            "name": "Moysand familiecamping",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.sp0uIkwrph49RM7l3bbKMQHaEK?w=268&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.32709437",
+            "lng": "8.583233804",
+            "name": "Groos",
+            "sand": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.yM8cSlrDC-ZuEo9K8y6AYwHaEK?w=283&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "64.61078574",
+            "lng": "12.57795498",
+            "name": "Aunfossen",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.j1RMQuiEA6eyeh6D78UZgwHaFj?w=239&h=174&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.72563691",
+            "lng": "5.520397835",
+            "name": "Orrestranden",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.W-zSfudHnsrroZ7fEwN0agHaFj?w=244&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.1329077",
+            "lng": "11.52485535",
+            "name": "Kruseter",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.0gWMyvjO-0ETT8ycNTffvQHaEK?w=289&h=162&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.12034158",
+            "lng": "11.19293734",
+            "name": "\u00d8ketangen",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.xHSiuhX2fvR4mCGySz2P0gHaE8?w=242&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.06741975",
+            "lng": "10.98566696",
+            "name": "Kuholmen",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.Qc1nZzmGkSJ0HqvG7DDTQAHaFH?w=247&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.16317409",
+            "lng": "11.17782041",
+            "name": "Gressdal",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.hf4YmVqab8G5ryjixK211QHaE7?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.42780522",
+            "lng": "5.281262845",
+            "name": "Vangen",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.c5g74ClV4ACmR8cqJdCthgHaE9?w=256&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.34343968",
+            "lng": "5.847584456",
+            "name": "Nedstrand",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.uNZ3WkpsZh1D3J7FwU7WbAHaBu?w=247&h=72&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.42008823",
+            "lng": "5.302253813",
+            "name": "Djupadalen",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.HqYEPZ7opTW8vcghAl-iDQHaE7?w=242&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.94815679",
+            "lng": "9.524184912",
+            "name": "Ringsj\u00f8",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.Kx1s3P6TjKvJxU2YtjnqVgHaFK?w=257&h=179&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.42009666",
+            "lng": "9.066471308",
+            "name": "Heimsvatnet",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.0h4nmaeiJZzTVXXN3uWECgHaF8?w=154&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.34658906",
+            "lng": "5.517565459",
+            "name": "Mulevika",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.7gd2kVCR74fs3R-VUyTcqQHaDL?w=300&h=128&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.60284507",
+            "lng": "8.977336138",
+            "name": "Hitra sv\u00f8mmehall",
+            "saltwater": "3",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.NC2vdClUdk1idy50EwmM4AHaDE?w=241&h=124&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.25582464",
+            "lng": "5.273660123",
+            "name": "Gr\u00f8nevika badestrand",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.yo6GxnBsLcg4NNFal2wysQHaDt?w=239&h=150&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.31325995",
+            "lng": "5.398453921",
+            "name": "Holmen",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.780VC4T7nbik2HZnETpq3AHaBK?w=298&h=59&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.45364381",
+            "lng": "5.492738932",
+            "name": "Lekneset",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.g5d8eIfL1QvyChNM1Uhk9gAAAA?w=144&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.55212046",
+            "lng": "5.40919885",
+            "name": "Hjellvik",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.IUn9EV8xG_7BLcufhfUGBQHaEK?w=191&h=107&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.37729635",
+            "lng": "10.4675822",
+            "name": "Borrestranda",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.XTKQXfDngy6s-EwtCCJ9IgHaE7?w=242&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.42002528",
+            "lng": "11.08060643",
+            "name": "\u00c5ssanden",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "59.69198067",
+            "lng": "10.52112445",
+            "name": "Skogsborg",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.YAm5_yXaomi6oNrOwbL8HwAAAA?w=162&h=125&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.62226692",
+            "lng": "10.44115171",
+            "name": "Dramstad",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.b8vDrIml2rG4uPap9iusDQHaJ4?w=126&h=168&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.52348808",
+            "lng": "10.47681972",
+            "name": "Ertsvika",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.WkjWHXkpZ_WEjjTRwwwJZwHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.54035253",
+            "lng": "10.55293545",
+            "name": "Apotekerstranda",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.WdRyHXDv9I4JILxTKRgcKgHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.52707657",
+            "lng": "10.50618455",
+            "name": "Sandbukta",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.50UBfIkcQCs6rdOuygoO0wAAAA?w=176&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.96398234",
+            "lng": "9.858935065",
+            "name": "Oddane Sand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.82e5yx54m6UQfy1XalKkWAHaDV?w=283&h=135&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.19318852",
+            "lng": "8.076761981",
+            "name": "Hamresanden",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.FhRkjAS9Cfg4EVAE43FqXgHaFo?w=182&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.02504144",
+            "lng": "11.01752849",
+            "name": "Storesand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.tS2-NN0TMb3P1jzujr22OgHaE7?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.12052966",
+            "lng": "12.05215503",
+            "name": "Sigernessj\u00f8en",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.EnQUltKvI0G1LmgWmfUwQwAAAA?w=176&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.49318491",
+            "lng": "10.31410581",
+            "name": "Dulpen",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.XniGbucicIz7W835_p8sWQHaFj?w=235&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.24817121",
+            "lng": "5.195846441",
+            "name": "\u00c5krasanden",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.F7CqYoVeORZBmP9QKaL03AHaEK?w=252&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.02014976",
+            "lng": "7.447401998",
+            "name": "Sj\u00f8sanden",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.p5MuiT2zbqNUAfp1PPM-0AAAAA?w=180&h=112&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.73407039",
+            "lng": "7.085243865",
+            "name": "Kringstadbukta",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.OEK_GWg7ktSeG4_ke1VxIwHaHa?w=220&h=215&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "68.450077",
+            "lng": "17.70547478",
+            "name": "Langstranda",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.CfFbvmkf5MNHaGXFkVjwGQHaEx?w=290&h=186&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.12349511",
+            "lng": "5.161212693",
+            "name": "Hoddeviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.aEuixqaxZKrHye3mT7YmfwHaE8?w=234&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.277454",
+            "lng": "10.49434863",
+            "name": "Ringshaugstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.eZVVc8i3Mxl1xXIYuoYnLAHaFj?w=235&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.44064233",
+            "lng": "10.40092863",
+            "name": "Pirbadet",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "undefined": "BADEPARK",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.gcDoIlThp18R6lFwA6OJTQHaEK?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.15576941",
+            "lng": "11.1700019",
+            "name": "Nordbytjernet",
+            "handicap": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.eL1F2FxQLapxCkkKYbRSQgHaFV?w=223&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.00507173",
+            "lng": "5.085882975",
+            "name": "Refviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.tjFYs8nFIgrZXUac4isJQQHaFi?w=218&h=163&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.83259683",
+            "lng": "10.77212021",
+            "name": "Hvervenbukta",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.D_KSlnK4nmP2fKFdwqxTKAHaE6?w=264&h=175&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.11011768",
+            "lng": "9.711846289",
+            "name": "Olavsberget",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.M9jnD-s8pzOGEyI6UrfNIQHaE7?w=235&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.17389882",
+            "lng": "10.44706686",
+            "name": "Tor\u00f8dstranda",
+            "sand": "1",
+            "toilet": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.J6H02H8uZMXKUStSezCmAgHaFj?w=258&h=188&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.86184388",
+            "lng": "10.67224547",
+            "name": "Oksvalstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.Ql096Hg6J1as_71s6SXLGAHaEK?w=291&h=163&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.72466973",
+            "lng": "10.0564371",
+            "name": "Hagatjern",
+            "sand": "1",
+            "food": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.asCOj65K7nC4dp5Pc1ojqgHaE2?w=233&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.34772831",
+            "lng": "10.6624715",
+            "name": "Botnerbaugen",
+            "sand": "1",
+            "toilet": "1",
+            "diving_tower": "1",
+            "saltwater": "1",
+            "undefined": "UTEDO",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.WFTo2FsZxbt98O5N3hDqCAHaE7?w=238&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.43998293",
+            "lng": "10.60731614",
+            "name": "Tronvikstranda",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.x7xi8LSnLmVnfTtITRLuVgHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.29413667",
+            "lng": "11.08677934",
+            "name": "Tunevannet",
+            "saltwater": "0",
+            "undefined": "D\u00c5RLIG VANNKVALITET",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.S8umo0bCqh7w8XZ8iesVKgHaE8?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.96740367",
+            "lng": "11.02633516",
+            "name": "Nebbursvollen",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "undefined": "BADEPARK",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.7BFgB_NPK-6ISQ0TsOUongAAAA?w=181&h=112&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.18444247",
+            "lng": "11.186838",
+            "name": "H\u00f8ysand",
+            "sand": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.s0GYg8wtghaqzJuDm-_onwHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.26262047",
+            "lng": "9.688443393",
+            "name": "Heivannet",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.pMh3ONpsSGNZTMAgyaMHOwHaEz?w=254&h=164&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "67.96939249",
+            "lng": "15.06215263",
+            "name": "B\u00f8sanden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.uKj7Sg20razhvtOhh-oWkAHaE6?w=235&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.00851394",
+            "lng": "11.08381433",
+            "name": "Stuevika",
+            "sand": "1",
+            "toilet": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.ZUPohyjTmBeZxytQbKLglgHaFh?w=221&h=164&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.86885782",
+            "lng": "11.2922219",
+            "name": "Sundsand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.PW9WmTS84XEROsR3M4s4jQHaE7?w=243&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.48371993",
+            "lng": "10.64152883",
+            "name": "Nes camping",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.UXZuBSwpTU_EsiKroWUvnAHaFj?w=204&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.60315707",
+            "lng": "10.31605883",
+            "name": "Randsfjorden Badepark",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.tOTvb8BrDFL8k4p_BK7kAQHaE7?w=281&h=185&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "69.63217554",
+            "lng": "18.90569508",
+            "name": "Telegrafbukta",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.8AhNK7rAe8bg5W-xK8nIAwAAAA?w=163&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.45034376",
+            "lng": "10.43429861",
+            "name": "Korsvika",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.4oRWUgiw4kwib7KDRTnK-QHaDl?w=297&h=145&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.39059161",
+            "lng": "10.47718453",
+            "name": "Estenstaddammen",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.PrpyuPN1UrCAPTx6B7crIgHaFj?w=227&h=170&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.43979393",
+            "lng": "10.4882032",
+            "name": "Rotvollfj\u00e6ra",
+            "toilet": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.1Vv2gkzOlsEJ0KYiDAwVogHaE6?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.4214699",
+            "lng": "10.34481888",
+            "name": "Theisendammen",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.PemDe9fLHisNVnrmcrzmEQHaFj?w=213&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.1533669",
+            "lng": "7.985161559",
+            "name": "Baneheia Badeplass",
+            "sand": "1",
+            "handicap": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "69.77832509",
+            "lng": "18.53914976",
+            "name": "Gr\u00f8tfjord",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.lI3oLliA_72CJt-pHMHl-gHaEb?w=242&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.97089614",
+            "lng": "10.72968739",
+            "name": "Sognsvann",
+            "sand": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.lzndQJ1VOAPm0wIfOR11FQHaE7?w=256&h=169&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.99104135",
+            "lng": "5.812200735",
+            "name": "Lind\u00f8y",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.08rpxg6ks02JNjy0RC6ZmwHaFj?w=183&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.80076929",
+            "lng": "5.548679035",
+            "name": "Boresanden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.NAzj_EKUSCHieIEj9d8NsAHaEK?w=249&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.84229695",
+            "lng": "5.557580018",
+            "name": "Hellest\u00f8stranden",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.DpX1H8hccT82BEK5EYQMGAHaE6?w=252&h=167&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.16772081",
+            "lng": "11.96157932",
+            "name": "B\u00e6reia ",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.XGwcoZKfCi-bX_zl7qDpaAHaEQ?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.00425377",
+            "lng": "5.978450737",
+            "name": "R\u00f8ynholm",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.P9HYpW7hGAhRp2ysuuKTxwAAAA?w=222&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.67271415",
+            "lng": "9.473873396",
+            "name": "Jonstjern",
+            "saltwater": "0",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "69.98186286",
+            "lng": "23.46069239",
+            "name": "Lathari",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.qjT1wXX_U9V3PBdcRQjVxAHaE8?w=281&h=183&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.26673188",
+            "lng": "11.80438582",
+            "name": "Stora Lee",
+            "sand": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.almQm7jRW8_tTbRuekJiJQHaE8?w=238&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "67.16607124",
+            "lng": "14.22396477",
+            "name": "Sandviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.TvdRaLXp1gwiIm6byWftBgHaEF?w=295&h=162&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "70.73157629",
+            "lng": "23.80181953",
+            "name": "Ytre Fors\u00f8l",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.vGxgykqtXhrq6gm7Ka5q3gHaEH?w=262&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.35965235",
+            "lng": "6.075636635",
+            "name": "Over\u00e5sanden",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.bX-CiE6keTyhqC0Erv4JXgAAAA?w=212&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.09388029",
+            "lng": "10.17895503",
+            "name": "Onsakervika",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.NZSGDf347vSz53HdYFc9fwHaLJ?w=161&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.86457417",
+            "lng": "9.411499935",
+            "name": "Gunnarsholmen",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.5AihlaixxmKgHkJw6Fm_RAHaEV?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.10742198",
+            "lng": "7.764628935",
+            "name": "Barnebasen",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.dZBu32Yj_LqCznKDI2EtzgHaD2?w=239&h=156&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.93303773",
+            "lng": "5.859418335",
+            "name": "St\u00f8lavika",
+            "saltwater": "1",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "59.30566647",
+            "lng": "10.68943303",
+            "name": "Teibern badeplass",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.qnEzfJhc34v7qfDEDAZglwHaE9?w=249&h=166&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.04901423",
+            "lng": "10.01806003",
+            "name": "Batteristranda",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.0CzvZL423STk0mVCfVj22QHaE7?w=257&h=169&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.02156004",
+            "lng": "10.07006813",
+            "name": "Gonstranda",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7"
+        },
+        {
+            "lat": "63.70980483",
+            "lng": "11.33426833",
+            "name": "Lang\u00e5sdammen",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.4CGMuvaleSYFN0_3PA__ugHaFj?w=191&h=143&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.89765764",
+            "lng": "10.29744433",
+            "name": "Svangstrand",
+            "sand": "1",
+            "saltwater": "3",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.xgZ_KpPeGYqaY2A5UwK28gHaFK?w=242&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.25197465",
+            "lng": "10.60448213",
+            "name": "Svea",
+            "diving_tower": "1",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.gk2T0E_ScGkmiIWnfFHrJwHaLI?w=191&h=288&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "61.30172411",
+            "lng": "7.247697535",
+            "name": "Solvorn",
+            "sand": "1",
+            "pier": "1",
+            "saltwater": "3",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.toQJQ48FPz1LdzkYySuOYwAAAA?w=162&h=122&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.13665414",
+            "lng": "7.033185235",
+            "name": "Kvaviksanden",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.WCJ7X4YYTv9cWnwmLYYLGgHaE8?w=249&h=166&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.4043176",
+            "lng": "10.65843743",
+            "name": "Hestsj\u00f8en",
+            "toilet": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.T749VsI9EM6F6XD2DScCfgHaE9?w=255&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.4323067",
+            "lng": "10.71946303",
+            "name": "Storsand",
+            "sand": "1",
+            "saltwater": "1",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.TNFCYZU3l3Rkg5al2MdQBwHaFj?w=235&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.13266777",
+            "lng": "9.933296935",
+            "name": "Svorksj\u00f8en",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "camping": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.iLBADHQrUYE0lbM7S7oXbQHaEK?w=262&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "66.89223335",
+            "lng": "13.65195433",
+            "name": "Stia",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.f4hmJFyu9L1fOBhkKOiZKQHaE9?w=297&h=198&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.68620948",
+            "lng": "6.608334035",
+            "name": "Sandane",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.Cx4AZ4wxTRMLECPnizGjIAHaFj?w=205&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.43139024",
+            "lng": "10.65148513",
+            "name": "Sj\u00f8badet (Moss)",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.2ib7iq9rrU2-2I-9A0QHtQHaCx?w=270&h=112&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.09911669",
+            "lng": "11.51522083",
+            "name": "Veslesj\u00f8en",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.s6Ak-MhD-gVCkRj_Nt7q7QHaE8?w=231&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.84083405",
+            "lng": "10.69422883",
+            "name": "Hellvikstrand",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.wuOUI_q5jgx_GiUxY0Sa4gHaFj?w=242&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "68.45876346",
+            "lng": "16.71302003",
+            "name": "Evenesvika",
+            "sand": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.i48snaVEAio2SCtCPjzDQgHaE8?w=251&h=167&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.69605887",
+            "lng": "9.391834035",
+            "name": "Rau\u00f8ra",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.Z8L9fQyIb3rZrC1PFR-SvgHaFj?w=231&h=173&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.47208783",
+            "lng": "6.807128635",
+            "name": "Skr\u00e5vika",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.Da4jlz26IUF8GV5dq6cljQHaEK?w=273&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.18039387",
+            "lng": "5.464044635",
+            "name": "Mobergsvika",
+            "sand": "1",
+            "handicap": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.Onm-HwrURs7PfZ3XstRZwwHaCv?w=239&h=111&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.91104283",
+            "lng": "10.66633923",
+            "name": "Bygd\u00f8y sj\u00f8bad",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.bShLZ4Da9RHKgu9I-54VdgHaE7?w=260&h=172&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.96676382",
+            "lng": "10.77823563",
+            "name": "Frysja",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.0hqqTa32tPDeRXKAuapwkAHaJ4?w=136&h=182&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.89357324",
+            "lng": "10.72747753",
+            "name": "Hoved\u00f8ya",
+            "sand": "1",
+            "toilet": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.UXktHrlN28dzQWh8p0oOtgHaE9?w=290&h=194&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.91765823",
+            "lng": "10.88198353",
+            "name": "Lutvannet",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.qmL476t2uYPFgxKkx5qrOAHaFj?w=235&h=176&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.87543744",
+            "lng": "10.86239803",
+            "name": "N\u00f8klevannet",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.SXXUSoe0_Mw_H98CmeNgfAHaE8?w=222&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.90209123",
+            "lng": "10.66544873",
+            "name": "Paradisbukta",
+            "sand": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.1xCp3bUss2v7HIjp0B9ohwAAAA?w=176&h=132&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.97742122",
+            "lng": "10.88273453",
+            "name": "Steinbruvannet",
+            "handicap": "1",
+            "saltwater": "0",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.BUj6lcH8d6ptnX9GDiGL4AHaEJ?w=293&h=164&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.82220575",
+            "lng": "10.86911963",
+            "name": "Stensrudtjern",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.x7UCiGbUoxuyg6wbIAPjQQHaFj?w=259&h=190&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.72296644",
+            "lng": "10.85049433",
+            "name": "Hekshusstranda",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "pier": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "camping": "1",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.qpsT3R597phIhhBWaIv8ggAAAA?w=183&h=141&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.77316686",
+            "lng": "9.916559935",
+            "name": "Hokksund campingplass",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "saltwater": "3",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.UG9fH4eu_Zz6HrcVL20QYQHaDK?w=239&h=128&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.78630526",
+            "lng": "9.899361535",
+            "name": "Hellefossen",
+            "saltwater": "3",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.n9dvMSNgZqxDnVACzP4kUAHaEK?w=239&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.08673862",
+            "lng": "9.716542235",
+            "name": "R\u00f8ra badeplass",
+            "sand": "1",
+            "toilet": "1",
+            "food": "1",
+            "pier": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.29E9yb01yTVAGGaniVeaFAHaFj?w=175&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.28850948",
+            "lng": "10.74211163",
+            "name": "Saltholmen",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.ral6AP7YI9TYcov-579ZmAHaE8?w=247&h=164&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.30612107",
+            "lng": "10.73510573",
+            "name": "Storesand",
+            "sand": "1",
+            "toilet": "1",
+            "shower": "1",
+            "food": "1",
+            "parking": "1",
+            "campfire": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.tS2-NN0TMb3P1jzujr22OgHaE7?w=240&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "60.63184046",
+            "lng": "5.063767835",
+            "name": "Nesvatnet",
+            "saltwater": "3",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.fCywhqSu76Q5NAk3Z47uMQAAAA?w=163&h=122&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.86481184",
+            "lng": "11.07996273",
+            "name": "Myrdammen",
+            "toilet": "1",
+            "shower": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.gLN6_1sCpKDH5Eo8uLlNhAHaEK?w=275&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.32376197",
+            "lng": "11.57759833",
+            "name": "Kolbj\u00f8rnsviksj\u00f8en",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.K_ODV8nHe_AIu7BQyS-PTgAAAA?w=173&h=129&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "66.3128731",
+            "lng": "14.17890113",
+            "name": "Klokkerhagen",
+            "saltwater": "3",
+            "img_src": "https://tse1.mm.bing.net/th/id/OIP.rfOzpCat_x1VJZn1UvueRwHaE8?w=300&h=200&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.02094154",
+            "lng": "5.592109435",
+            "name": "Sandestranden",
+            "sand": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.e0Gnu6ZR7t6zrHu2rwleugHaEK?w=300&h=168&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.53164881",
+            "lng": "7.735162235",
+            "name": "Soggebru camping",
+            "sand": "1",
+            "saltwater": "3",
+            "camping": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.PsGL0nM77albv9TZgXrWAAHaFH?w=251&h=171&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.35494226",
+            "lng": "10.20249413",
+            "name": "Langevann",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "diving_tower": "1",
+            "pier": "1",
+            "campfire": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.Hxoe1hHtxSzhMufVp6ttngHaEK?w=300&h=168&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "62.84163944",
+            "lng": "10.01807613",
+            "name": "Buvatnet",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "parking": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.UAnGXI9Mq2E7i8grdOikngHaFj?w=181&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "63.63689155",
+            "lng": "10.23074313",
+            "name": "Storvatnet",
+            "sand": "1",
+            "saltwater": "0",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.lnPZGvM-x0l6LSmz0cDL-gAAAA?w=183&h=122&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.94210756",
+            "lng": "5.670751735",
+            "name": "M\u00f8llebukta",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.h_WV4UL83AfpG4Ic3S7psQHaF7?w=201&h=161&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "58.92444066",
+            "lng": "5.745285035",
+            "name": "Vaulen badestrand",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse2.mm.bing.net/th/id/OIP.6Acg2YuEXIL62WfPJgGVZwHaEP?w=265&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.81826303",
+            "lng": "10.74945554",
+            "name": "Ingierstrand",
+            "sand": "1",
+            "toilet": "1",
+            "handicap": "1",
+            "food": "1",
+            "diving_tower": "1",
+            "parking": "1",
+            "saltwater": "1",
+            "img_src": "https://tse4.mm.bing.net/th/id/OIP.Jby7E9ChuKhD8R2PICt6CgHaE8?w=187&h=160&c=7&o=5&pid=1.7"
+        },
+        {
+            "lat": "59.1215337",
+            "lng": "10.35880253",
+            "name": "Hud\u00f8y",
+            "saltwater": "1",
+            "img_src": "https://tse3.mm.bing.net/th/id/OIP.LeMWyYOWa-0n5gQUH_GnUwHaIo?w=149&h=171&c=7&o=5&pid=1.7"
+        }
+    ]
+}
